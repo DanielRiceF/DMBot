@@ -50,4 +50,4 @@ async def __balance(ctx,member:discord.Member = None):
 
 
 
-bot.run(settings['token'])
+bot.run(settings['token'])!
